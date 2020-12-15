@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: NMCRedMono;
+    src: url('./fonts/Intro-Monov1.01GX.ttf')
+}
+
+.article-header {
+    font-family: NMCRedMono;
+}
